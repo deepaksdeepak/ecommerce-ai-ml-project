@@ -1,0 +1,5 @@
+cluster,n_customers,avg_recency,avg_frequency,avg_monetary,avg_order_value,avg_review_score,pct_of_customers
+0,37893,237.44,1.0,231.03,231.03,4.67,40.6
+1,38082,239.12,1.0,44.12,44.12,4.61,40.8
+2,14582,239.57,1.0,141.18,141.18,1.63,15.6
+3,2801,220.29,2.11,260.05,122.96,4.21,3.0
