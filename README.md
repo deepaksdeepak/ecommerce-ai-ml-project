@@ -132,9 +132,6 @@ Sample recommendations saved to `data/processed/sample_recommendations.csv`.
 - Segments are primarily differentiated by **spend level** and **review score** rather than purchase frequency.
 - The "Dissatisfied Customers" segment (15.6%, avg review 1.63) is a priority area for business investigation — likely tied to delivery delays or specific product categories.
 
-## Author
-
-Deepak — [GitHub](https://github.com/deepaksdeepak)
 ## Dashboard
 
 A Power BI dashboard (`dashboard/data/ecommerce_dashboard.pbix`) is included, covering:
@@ -142,3 +139,7 @@ A Power BI dashboard (`dashboard/data/ecommerce_dashboard.pbix`) is included, co
 - **Customer Analytics**: Segment distribution (donut + bar), RFM breakdown by segment (table), customer geography
 
 All underlying data exports for further dashboard pages (Product Analytics, Operations, ML Insights, Recommendations) are prepared and available in `dashboard/data/`, ready for extension.
+
+## Author
+
+Deepak — [GitHub](https://github.com/deepaksdeepak)
