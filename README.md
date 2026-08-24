@@ -135,3 +135,10 @@ Sample recommendations saved to `data/processed/sample_recommendations.csv`.
 ## Author
 
 Deepak — [GitHub](https://github.com/deepaksdeepak)
+## Dashboard
+
+A Power BI dashboard (`dashboard/data/ecommerce_dashboard.pbix`) is included, covering:
+- **Executive Overview**: Revenue trend, order volume, and average order value KPIs
+- **Customer Analytics**: Segment distribution (donut + bar), RFM breakdown by segment (table), customer geography
+
+All underlying data exports for further dashboard pages (Product Analytics, Operations, ML Insights, Recommendations) are prepared and available in `dashboard/data/`, ready for extension.
