@@ -140,6 +140,8 @@ A Power BI dashboard (`dashboard/data/ecommerce_dashboard.pbix`) is included, co
 
 All underlying data exports for further dashboard pages (Product Analytics, Operations, ML Insights, Recommendations) are prepared and available in `dashboard/data/`, ready for extension.
 
+🔗 **[Live Demo](https://ecommerce-ai-ml-project-kqpcbgw3hpnp8ec4zdprfh.streamlit.app)** | 📊 [Power BI Dashboard](dashboard/data/ecommerce_dashboard.pbix)
+
 ## Author
 
 Deepak — [GitHub](https://github.com/deepaksdeepak)
